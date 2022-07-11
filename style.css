@@ -127,7 +127,7 @@ body{
 }
 
 .navigation-list-item-hidden{
-    padding: 0px 0px 0px 40px;
+    padding: 0px 0px 0px 10px;
     font-size: 14px; 
     background-color: #404040;
 }
